@@ -1,6 +1,6 @@
 //write a java program to calculate a simple interest for a given amount
 public class task2 {//class started here
-	//Java program execution starts from manin()method
+	//Java program execution starts from main()method
 	public static void main(String[] args) {
 		// main()method starts from here
        /*S.I. = (P*R*T)/100
